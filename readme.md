@@ -38,10 +38,12 @@ Now that you're all set up, let's tackle the `Your Turn` challenges!
 Below are the `Your Turn` challenges from the lesson. Let's start at the top and work our way through them!
 
 ---
+
 * Draw a small rectangle to the canvas.
 * Use `requestAnimationFrame()` to move the rectangle one pixel down each time it is called.
   * _Extension_: Can you make the block stop when it reaches the end of the canvas? Can you make it turn around and go the other way when it reaches the end of the canvas?
 * Can you add four more blocks that behave the same way?
+
 ---
 
 Let's break these down just a little further into distinct tasks:
